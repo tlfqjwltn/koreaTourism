@@ -12,4 +12,4 @@ Coding Point /
 
 Jqeury로 끊김 없는 메인 슬라이더를 제작하였습니다.
 
-NewProduc에 탭메뉴를 구현하였습니다.
+NewProduct에 탭메뉴를 구현하였습니다.
