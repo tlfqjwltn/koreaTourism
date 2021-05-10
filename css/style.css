@@ -124,7 +124,7 @@ img{border: 0;}
     display: inline-block;
     position: absolute;
     left: 0;
-    bottom: 135px;
+    bottom: 35%;
     font-size: 30px;
     color: #fff;
     font-weight: 700;
@@ -137,12 +137,11 @@ img{border: 0;}
     display: inline-block;
     position: absolute;
     left: 0;
-    bottom: 95px;
+    bottom: 20%;
     font-size: 20px;
     color: #fff;
     /* opacity: 0; */
-}
-.panel_bottom::after{
+}.panel_bottom::after{
     width: 100%;
     content: "";
     display: block;
